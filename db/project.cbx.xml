@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="project">
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|twoDigitNumberTo8BitDisplay:hoursDisplay|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_eem.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|twoDigitNumberTo8BitDisplay:minutesDisplay|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_eem.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|twoDigitNumberTo8BitDisplay:secondsDisplay|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_eem.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|twoDigitNumberTo8BitDisplay:hoursDisplay|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_h6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|twoDigitNumberTo8BitDisplay:minutesDisplay|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_h6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|project|twoDigitNumberTo8BitDisplay:secondsDisplay|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_h6m.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

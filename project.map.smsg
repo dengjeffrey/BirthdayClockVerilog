@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at keyboard.v(47): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at project.v(334): always construct contains both blocking and non-blocking assignments

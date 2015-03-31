@@ -1,0 +1,317 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk_1_tenth_sec:comb_29|clk_1hz'
+Slack : -78.074
+TNS   : -9213.694
+
+Type  : Slow Model Setup 'minutes[10]'
+Slack : -66.613
+TNS   : -66.613
+
+Type  : Slow Model Setup 'hours[10]'
+Slack : -64.023
+TNS   : -64.023
+
+Type  : Slow Model Setup 'seconds[10]'
+Slack : -61.231
+TNS   : -61.231
+
+Type  : Slow Model Setup 'clk_1_sec:comb_30|clk_1hz'
+Slack : -20.914
+TNS   : -1409.365
+
+Type  : Slow Model Setup 'toLED:tL1|CLOCKER:clocker1|clk_1hz'
+Slack : -5.905
+TNS   : -219.659
+
+Type  : Slow Model Setup 'CLOCK_50'
+Slack : -3.235
+TNS   : -211.398
+
+Type  : Slow Model Setup 'keyboard:kbd|keyboard_clk_filtered'
+Slack : -2.572
+TNS   : -39.518
+
+Type  : Slow Model Setup 'keyboard:kbd|clock'
+Slack : -0.742
+TNS   : -0.816
+
+Type  : Slow Model Setup 'keyboard:kbd|scan_ready'
+Slack : 0.529
+TNS   : 0.000
+
+Type  : Slow Model Hold 'minutes[10]'
+Slack : -24.672
+TNS   : -24.672
+
+Type  : Slow Model Hold 'hours[10]'
+Slack : -21.261
+TNS   : -21.261
+
+Type  : Slow Model Hold 'seconds[10]'
+Slack : -19.567
+TNS   : -19.567
+
+Type  : Slow Model Hold 'CLOCK_50'
+Slack : -2.541
+TNS   : -13.782
+
+Type  : Slow Model Hold 'keyboard:kbd|keyboard_clk_filtered'
+Slack : -2.364
+TNS   : -2.364
+
+Type  : Slow Model Hold 'keyboard:kbd|clock'
+Slack : -2.160
+TNS   : -2.160
+
+Type  : Slow Model Hold 'clk_1_sec:comb_30|clk_1hz'
+Slack : -0.904
+TNS   : -0.947
+
+Type  : Slow Model Hold 'keyboard:kbd|scan_ready'
+Slack : -0.086
+TNS   : -0.233
+
+Type  : Slow Model Hold 'clk_1_tenth_sec:comb_29|clk_1hz'
+Slack : 0.520
+TNS   : 0.000
+
+Type  : Slow Model Hold 'toLED:tL1|CLOCKER:clocker1|clk_1hz'
+Slack : 0.531
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'seconds[10]'
+Slack : -74.515
+TNS   : -2111.562
+
+Type  : Slow Model Recovery 'hours[10]'
+Slack : -71.436
+TNS   : -2026.083
+
+Type  : Slow Model Recovery 'minutes[10]'
+Slack : -70.545
+TNS   : -1979.478
+
+Type  : Slow Model Recovery 'keyboard:kbd|ready_set'
+Slack : -2.550
+TNS   : -2.550
+
+Type  : Slow Model Removal 'minutes[10]'
+Slack : -24.540
+TNS   : -592.824
+
+Type  : Slow Model Removal 'hours[10]'
+Slack : -23.420
+TNS   : -653.167
+
+Type  : Slow Model Removal 'seconds[10]'
+Slack : -22.022
+TNS   : -599.038
+
+Type  : Slow Model Removal 'keyboard:kbd|ready_set'
+Slack : 3.320
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'hours[10]'
+Slack : -19.908
+TNS   : -29628.608
+
+Type  : Slow Model Minimum Pulse Width 'seconds[10]'
+Slack : -19.404
+TNS   : -24688.668
+
+Type  : Slow Model Minimum Pulse Width 'minutes[10]'
+Slack : -18.157
+TNS   : -27644.790
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_50'
+Slack : -1.380
+TNS   : -103.380
+
+Type  : Slow Model Minimum Pulse Width 'clk_1_tenth_sec:comb_29|clk_1hz'
+Slack : -0.500
+TNS   : -330.000
+
+Type  : Slow Model Minimum Pulse Width 'clk_1_sec:comb_30|clk_1hz'
+Slack : -0.500
+TNS   : -97.000
+
+Type  : Slow Model Minimum Pulse Width 'toLED:tL1|CLOCKER:clocker1|clk_1hz'
+Slack : -0.500
+TNS   : -73.000
+
+Type  : Slow Model Minimum Pulse Width 'keyboard:kbd|keyboard_clk_filtered'
+Slack : -0.500
+TNS   : -23.000
+
+Type  : Slow Model Minimum Pulse Width 'keyboard:kbd|clock'
+Slack : -0.500
+TNS   : -9.000
+
+Type  : Slow Model Minimum Pulse Width 'keyboard:kbd|scan_ready'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Slow Model Minimum Pulse Width 'keyboard:kbd|ready_set'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Setup 'clk_1_tenth_sec:comb_29|clk_1hz'
+Slack : -32.998
+TNS   : -3792.302
+
+Type  : Fast Model Setup 'minutes[10]'
+Slack : -28.412
+TNS   : -28.412
+
+Type  : Fast Model Setup 'hours[10]'
+Slack : -27.443
+TNS   : -27.443
+
+Type  : Fast Model Setup 'seconds[10]'
+Slack : -26.150
+TNS   : -26.150
+
+Type  : Fast Model Setup 'clk_1_sec:comb_30|clk_1hz'
+Slack : -9.276
+TNS   : -602.463
+
+Type  : Fast Model Setup 'toLED:tL1|CLOCKER:clocker1|clk_1hz'
+Slack : -2.089
+TNS   : -64.866
+
+Type  : Fast Model Setup 'CLOCK_50'
+Slack : -1.030
+TNS   : -48.984
+
+Type  : Fast Model Setup 'keyboard:kbd|keyboard_clk_filtered'
+Slack : -0.718
+TNS   : -7.928
+
+Type  : Fast Model Setup 'keyboard:kbd|clock'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast Model Setup 'keyboard:kbd|scan_ready'
+Slack : 0.752
+TNS   : 0.000
+
+Type  : Fast Model Hold 'minutes[10]'
+Slack : -10.430
+TNS   : -10.430
+
+Type  : Fast Model Hold 'hours[10]'
+Slack : -8.585
+TNS   : -8.585
+
+Type  : Fast Model Hold 'seconds[10]'
+Slack : -7.910
+TNS   : -7.910
+
+Type  : Fast Model Hold 'CLOCK_50'
+Slack : -1.585
+TNS   : -8.838
+
+Type  : Fast Model Hold 'keyboard:kbd|keyboard_clk_filtered'
+Slack : -1.445
+TNS   : -1.445
+
+Type  : Fast Model Hold 'keyboard:kbd|clock'
+Slack : -1.323
+TNS   : -1.323
+
+Type  : Fast Model Hold 'clk_1_sec:comb_30|clk_1hz'
+Slack : -0.836
+TNS   : -1.376
+
+Type  : Fast Model Hold 'keyboard:kbd|scan_ready'
+Slack : -0.042
+TNS   : -0.111
+
+Type  : Fast Model Hold 'clk_1_tenth_sec:comb_29|clk_1hz'
+Slack : 0.239
+TNS   : 0.000
+
+Type  : Fast Model Hold 'toLED:tL1|CLOCKER:clocker1|clk_1hz'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'seconds[10]'
+Slack : -32.093
+TNS   : -905.975
+
+Type  : Fast Model Recovery 'hours[10]'
+Slack : -30.711
+TNS   : -867.805
+
+Type  : Fast Model Recovery 'minutes[10]'
+Slack : -30.341
+TNS   : -840.677
+
+Type  : Fast Model Recovery 'keyboard:kbd|ready_set'
+Slack : -1.092
+TNS   : -1.092
+
+Type  : Fast Model Removal 'minutes[10]'
+Slack : -10.357
+TNS   : -259.587
+
+Type  : Fast Model Removal 'hours[10]'
+Slack : -10.203
+TNS   : -277.102
+
+Type  : Fast Model Removal 'seconds[10]'
+Slack : -9.745
+TNS   : -257.164
+
+Type  : Fast Model Removal 'keyboard:kbd|ready_set'
+Slack : 1.972
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'hours[10]'
+Slack : -8.226
+TNS   : -11787.294
+
+Type  : Fast Model Minimum Pulse Width 'seconds[10]'
+Slack : -8.031
+TNS   : -9653.120
+
+Type  : Fast Model Minimum Pulse Width 'minutes[10]'
+Slack : -7.491
+TNS   : -11043.836
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_50'
+Slack : -1.380
+TNS   : -103.380
+
+Type  : Fast Model Minimum Pulse Width 'clk_1_tenth_sec:comb_29|clk_1hz'
+Slack : -0.500
+TNS   : -330.000
+
+Type  : Fast Model Minimum Pulse Width 'clk_1_sec:comb_30|clk_1hz'
+Slack : -0.500
+TNS   : -97.000
+
+Type  : Fast Model Minimum Pulse Width 'toLED:tL1|CLOCKER:clocker1|clk_1hz'
+Slack : -0.500
+TNS   : -73.000
+
+Type  : Fast Model Minimum Pulse Width 'keyboard:kbd|keyboard_clk_filtered'
+Slack : -0.500
+TNS   : -23.000
+
+Type  : Fast Model Minimum Pulse Width 'keyboard:kbd|clock'
+Slack : -0.500
+TNS   : -9.000
+
+Type  : Fast Model Minimum Pulse Width 'keyboard:kbd|scan_ready'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Fast Model Minimum Pulse Width 'keyboard:kbd|ready_set'
+Slack : -0.500
+TNS   : -1.000
+
+------------------------------------------------------------
